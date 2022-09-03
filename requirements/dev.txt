@@ -1,0 +1,4 @@
+-r base.txt
+pytest-django==4.5.2
+freezegun==1.2.2
+black==22.6.0
