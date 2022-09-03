@@ -1,0 +1,31 @@
+- model: orders.product
+  pk: 1
+  fields:
+    title: Keyboard
+    price: 10.0
+    created: "2022-06-01"
+    modified: "2022-06-01"
+
+- model: orders.product
+  pk: 2
+  fields:
+    title: Mouse
+    price: 5.49
+    created: "2022-06-01"
+    modified: "2022-06-01"
+
+- model: orders.product
+  pk: 3
+  fields:
+    title: Speaker
+    price: 30.0
+    created: "2022-06-01"
+    modified: "2022-06-01"
+
+- model: orders.product
+  pk: 4
+  fields:
+    title: Display
+    price: 359.99
+    created: "2022-06-01"
+    modified: "2022-06-01"
